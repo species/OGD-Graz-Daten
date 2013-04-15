@@ -1,0 +1,76 @@
+XCoord;YCoord;OBJECTID;NAME;ANSCHRIFT;PLZ;ORT;TELEFON;KAT2;KAT3;HERKUNFT;PHI;LAMBDA
+1716819,56990000;5952648,40300000;1;Städt. Kinderkrippe Idlhofgasse;Idlhofgasse 74;8020;Graz;+43(0)316/872-2781;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,064743;15,422453
+1713671,02520000;5954538,86580000;2;Kinderkrippe der Barmherzigen Brüder;Georgigasse  85-89;8020;Graz;+43(0)664/9673522;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,076309;15,394169
+1720520,66900000;5956788,23980000;3;Städt. Kinderkrippe Schönbrunngasse;Schönbrunngasse 30a;8043;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,090069;15,455700
+1716625,42750000;5956342,50420000;4;Wiki Kinderkrippe Überfuhrgasse;Überfuhrgasse 6neben Sportplatz;8020;Graz;+43 676 4773140;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,087345;15,420709
+1716203,41010000;5958262,94450000;5;Städt. Kinderkrippe Weinzöttlstraße, Arland;Weinzöttlstraße 3;8045;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,099091;15,416918
+1718581,91320000;5956542,51260000;6;Kinderkrippe der Österr. Hochschülerschaft;Hochsteingasse 16;8010;Graz;+43(0)316/672420;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,088566;15,438284
+1722161,80140000;5953054,11570000;7;SBZ Waltendorf Kinderkrippe;Mannagettaweg 1;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,067226;15,470443
+1724988,57080000;5953560,77790000;8;Städt. Kinderkrippe Lustbühelstraße;Lustbühelstraße 28;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,070328;15,495836
+1715368,30710000;5952412,05430000;9;Wiki Kinderkrippe Reininghausstraße;Reininghausstraße 11a;8020;Graz;+43(0)316/587630;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,063297;15,409415
+1716547,49670000;5953809,19940000;10;Kinderkrippe Verein Kindernest;Mohsgasse 6;8020;Graz;+43(0)316/721235;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,071846;15,420009
+1721627,81460000;5951745,03170000;11;Nanoversity-TU Betriebskinderkrippe;Petersgasse 136;8010;Graz;+43(0)316/873-30590;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,059216;15,465646
+1715931,60890000;5950108,17870000;12;GiP Kinderkrippe Wiesenauergasse;Wiesenauergasse 3;8053;Graz;+43(0)316/273756;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,049198;15,414475
+1715625,74630000;5947141,63260000;13;Kinderkrippe Verein Kindernest;Lengheimerweg 2;8054;Graz;+43(0)650/3447315;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,031036;15,411728
+1718364,43050000;5951825,25760000;14;Wiki Kinderkrippe himmelgrün Holding Graz;Neuholdaugasse 18;8010;Graz;+43(0)316/269240;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,059708;15,436330
+1717687,44780000;5952467,34090000;15;Wiki Kinderkrippe Albert Schweitzer;Albert-Schweitzer-Gasse 36;8020;Graz;+43(0)316/776680;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,063637;15,430249
+1718302,86180000;5954077,33000000;16;Wiki Kinderkrippe Sackstraße ;Sackstraße 28;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,073486;15,435778
+1714092,75300000;5959006,60840000;17;Wiki Kinderkrippe Obere Weid;Obere Weid ab Herbst 2012;8051;Graz;+43(0)316/426565-131;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,103638;15,397957
+1717264,20100000;5954280,20200000;18;GiP Kinderkrippe Sigmundstadl;Sigmundstadl  39ab Herbst 2012;8020;Graz;+43(0)316/348448-20;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,074730;15,426447
+1722686,33560000;5950863,19240000;19;GiP Kinderkrippe St. Peter;St.-Peter-Hauptstraße 95ab Herbst 2012;8042;Graz;+43(0)316/348448-20;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,053818;15,475155
+1723624,03500000;5953227,17550000;20;GiP Kinderkrippe Waltendorf;Waltendorfer Hauptstraße 113;8010;Graz;+43(0)316/348448-20;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,068287;15,483578
+1719724,54570000;5953789,64120000;21;Modellino Kinderkrippe;Maiffredygasse 11;8010;Graz;+43(0)316/313459;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,071728;15,448548
+1717273,31650000;5954710,63790000;22;Anton-Afritsch Kinderkrippe;Gabelsbergerstraße 22;8020;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,077362;15,426529
+1719775,71660000;5951818,31290000;23;Volkshilfe Kinderkrippe Messe;Klosterwiesgasse 101a;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,059666;15,449008
+1714000,33930000;5951378,00490000;24;Städt. Kinderkrippe Schererstraße;Schererstraße 7b;8052;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,056969;15,397127
+1721235,31900000;5953013,41530000;25;Städt. Kinderkrippe Plüddemanngasse;Plüddemanngasse 28;8010;Graz;+43316/872-2686;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,066978;15,462120
+1720239,63830000;5948372,49800000;26;Wiki Kinderkrippe Ziehrerstraße;Ziehrerstraße 80;8041;Graz;+43(0)316/462070;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,038574;15,453176
+1715389,92620000;5955733,54880000;27;Wiki Kinderkrippe Plabutscherstraße;Plabutscherstraße 19;8020;Graz;+43(0)316/581150;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,083618;15,409610
+1716724,56200000;5961263,04510000;28;Wiki Kinderkrippe Stattegg;Stattegger Straße 60;8045;Graz;+43(0)316/691211;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,117432;15,421599
+1720050,88080000;5953103,98860000;29;Wiki TU Kinderkrippe ;Uhlandgasse 6;8010;Graz;+43(0)316/819269;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,067532;15,451480
+1721647,03560000;5948123,24570000;30;Kinderbetreuungsverein Schneckenhaus;Messendorfer Straße 19;8041;Graz;+43(0)650/4156003;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,037048;15,465818
+1720544,88780000;5948918,99230000;31;GiP Kinderkrippe Liebenau;Raiffeisenstraße 190;8043;Graz;+43(0)316/348448-20;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,041920;15,455917
+1714153,37930000;5952390,20860000;32;Kinderkrippe SimSalaBim ;Handelstraße 6;8020;Graz;+43(0)316/585568;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,063164;15,398501
+1718100,76920000;5954781,20110000;33;GiP Kinderkrippe Körösistraße;Körösistraße  3;8010;Graz;+43(0)316/228097-21;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,077793;15,433962
+1720919,37010000;5955801,40540000;34;Wiki Kinderkrippe Hilmgasse;Hilmgasse 4;8010;Graz;+43(0)316/337860;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,084034;15,459282
+1717367,04810000;5950878,95720000;35;GiP Kinderkrippe Triester;Triester Straße 40;8020;Graz;+43(0)316/228097-22;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,053917;15,427371
+1713577,58400000;5953447,40730000;36;Wiki Kinderkrippe Eggenberg;Johanna-Kollegger-Straße 1;8020;Graz;+43(0)316/577091;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,069633;15,393330
+1717734,28050000;5950081,59270000;37;Städt. Kinderkrippe Dornschneidergasse;Dornschneidergasse 45;8020;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,049034;15,430670
+1717915,67290000;5954234,13950000;38;GiP Kinderkrippe Stockergasse ;Stockergasse 8;8020;Graz;+43(0)316/171095;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,074448;15,432299
+1724065,60460000;5958969,54110000;39;Wiki Kinderkrippe Tannhof;Tannhofweg 55;8044;Graz;+43(0)316/392045;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,103409;15,487545
+1717849,46410000;5952338,57020000;40;Wiki Kinderkrippe Rankengasse;Rankengasse 4ab Herbst 2012;8020;Graz;+43(0)316/426565-131;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,062847;15,431705
+1716777,36190000;5947861,14620000;41;Wiki Kinderkrippe Graz-West;Wagner-Jauregg-Platz 10;8054;Graz;+43(0)316/244737-26;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,035442;15,422073
+1714796,27400000;5947192,31810000;42;Betriebskinderkrippe Anton Paar;Anton-Paar-Straße 20;8054;Graz;+43(0)664/8274672;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,031349;15,404277
+1716147,80380000;5958366,00580000;43;Zwergennest Kinderkrippe;Weinzöttlstraße 3b;8045;Graz;+43(0)316/673910;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,099720;15,416418
+1713633,18810000;5958019,63700000;44;Volkshilfe Kinderkrippe Göstingerstr.;Göstinger Straße 213;8051;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,097603;15,393828
+1721819,66280000;5945786,68980000;45;Städt. Kinderkrippe Kloiberweg;Kloiberweg 1;8041;Graz;+43 316 872-2782;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,022739;15,467369
+1723431,48040000;5956519,08530000;46;GiP Kinderkrippe Stiftingtalstraße;Stiftingtalstraße  130;8010;Graz;+43(0)316/228097-21;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,088425;15,481849
+1719216,44320000;5954941,13030000;47;Kinderkrippe LUV (Landesbed. Unters. V);Körblergasse 4;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,078773;15,443984
+1713671,75640000;5954542,57030000;48;Kath.Pfarrkinderkrippe St. Vinzenz;Georgigasse 89;8020;Graz;+43(0)316/570355;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,076332;15,394176
+1717332,05590000;5953249,86910000;49;GiP Kinderkrippe Elisabethinergasse ;Elisabethinergasse 31;8020;Garz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,068424;15,427056
+1719739,12890000;5955322,98620000;50;Kinderkrippe integrativ;Rosenberggürtel  12;8010;Graz;+43(0)316/323015-33;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,081108;15,448679
+1723621,10790000;5949804,89000000;51;Kinderkrippe Waldorf St.Peter;St.-Peter-Hauptstraße 182;8042;Graz;+43(0)316/402606-79;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,047340;15,483552
+1713885,50530000;5949996,62720000;52;Wiki Kinderkrippe Wetzelsdorf (Babynest);Dr.-Ignaz-Scarpatetti-Straße 6;8052;Graz;+43(0)316/282542;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,048515;15,396095
+1720080,56850000;5951522,52920000;53;Kinderkrippe Kunterbunt;Fröhlichgasse 8;8010;Graz;+43(0)316/831729;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,057854;15,451747
+1714074,10680000;5958430,92190000;54;Wiki Kinderkrippe Gösting;Costellagasse 5;8051;Graz;+43(0)316/684064;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,100117;15,397790
+1717516,39390000;5953402,07310000;55;Wiki Kinderkrippe Dreihackengasse;Dreihackengasse 1;8020;Graz;+43(0)316/733005;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,069355;15,428712
+1720348,57180000;5950720,38690000;56;Städt. Kinderkrippe Flurgasse;Flurgasse 1;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,052944;15,454154
+1718820,09250000;5945458,33860000;57;Meine Welt Kinderkrippe Rudersdorfer Au;Gaisbacherweg 57;8055;Graz;+43(0)316/244766-7;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,020729;15,440424
+1716635,90100000;5954380,63190000;58;WiKi Kinderkrippe Ghegagasse;Ghegagasse 14;8020;Graz;+43(0)316/776110;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,075344;15,420803
+1719420,58480000;5954903,86560000;59;Wiki Uni Kinderkrippe;Heinrichstraße 111.und 2.Stock;8010;Graz;+43(0)316/324840;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,078545;15,445818
+1720645,47130000;5946064,94480000;60;Städt. Kinderkrippe Mittelstraße;Mittelstraße 23;8041;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,024445;15,456821
+1716029,09680000;5956626,64600000;61;Städt. Kinderkrippe Erlengasse;Erlengasse 25;8020;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,089081;15,415352
+1719330,52990000;5954542,05520000;62;Kinderkrippe Max und Moritz;Glacisstraße 11;8010;Graz;+43(0)316/373758  +43/699/11601197 ;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,076332;15,445009
+1714486,58630000;5958436,24460000;63;Kinderkrippe Verein Mit Kindern wachsen;Liesganiggasse 3;8051;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,100147;15,401495
+1714559,04270000;5949550,98860000;64;Gusti Bauer Kinderzentrum;Karl-Etzel-Weg 9;8053;Graz;+43 316/252691;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,045788;15,402146
+1722134,82490000;5950725,95010000;65;Wiki Kinderkrippe Marburgstraße;Marburger Straße 41;8042;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,052979;15,470201
+1722168,66260000;5955522,82070000;66;Kinderkrippe Billrothgasse nur für LKH-Bed.;Billrothgasse 12;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,082329;15,470505
+1717467,88030000;5953456,90070000;67;Privatkinderkrippe MiniMex;Kernstockgasse 21;8020;Graz;+43(0)316/373040;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,069691;15,428276
+1717140,04960000;5959776,83700000;68;Städt. Kinderkrippe Prochaskagasse;Prochaskagasse 23;8045;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,108345;15,425331
+1721131,47080000;5951992,85340000;69;Städt. Kinderkrippe Sandgasse;Petersgasse 94;8010;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,060734;15,461187
+1716613,02330000;5954375,46810000;70;Wiki Kinderkrippe Babenbergerstraße;Babenbergerstraße 38;8020;Graz;+43(0)676/5777543;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,075310;15,420597
+1718380,74830000;5952480,02170000;71;Städt. Kinderkrippe Friedrichgasse;Friedrichgasse 30;8010;Graz;+43(0)316/872-2604;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,063713;15,436477
+1721250,49810000;5954580,98850000;72;GiP Kinderkrippe Leonhard;Leonhardstraße  114ab Herbst 2012;8010;Graz;+43(0)316/348448-20;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,076569;15,462256
+1715651,10740000;5957474,70220000;73;Städt. Kinderkrippe Augasse;Augasse 81b;8051;Graz;+43(0)316/872-2721;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,094269;15,411956
+1722434,69420000;5956144,16070000;74;Waldorf Kinderkrippe Stifting;Stiftingtalstraße 79;8010;Graz;+43(0)316/354282;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,086132;15,472894
+1721693,28070000;5950806,85350000;75;Städt. Kinderkrippe Nußbaumerstraße;Nußbaumerstraße 36;8042;Graz;-;Kinderbetreuung;Kinderkrippe;Stadt Graz - Stadtvermessung;47,053474;15,466234

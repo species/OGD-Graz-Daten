@@ -1,0 +1,61 @@
+XCoord;YCoord;OBJECTID;NAME;ANSCHRIFT;PLZ;ORT;TELEFON;KAT3;HERKUNFT;PHI;LAMBDA
+1722275,67100000;5945367,72910000;1;"Apotheke Thondorf ""Zum hl.Christophorus""";Liebenauer Hauptstraﬂe 308;8041;Graz;(0316) 40 60 33;Apotheken;Stadt Graz - Stadtvermessung;47,020176;15,471465
+1721422,68750000;5948705,80590000;2;Apotheke-Liebenau (Murpark);Ostbahnstraﬂe 3;8041;Graz;(0316) 47 23 24;Apotheken;Stadt Graz - Stadtvermessung;47,040615;15,463803
+1716465,58500000;5954071,23100000;3;Bahnhof-Apotheke;Keplerstraﬂe 112;8020;Graz;(0316) 71 51 35;Apotheken;Stadt Graz - Stadtvermessung;47,073448;15,419272
+1717317,84410000;5952869,15760000;4;Dreifaltigkeits-Apotheke;Lazarettgasse 1;8020;Graz;(0316) 71 19 87;Apotheken;Stadt Graz - Stadtvermessung;47,066093;15,426929
+1714345,73010000;5945862,18780000;5;Floriani-Apotheke;K‰rntner Straﬂe 412;8054;Graz;(0316) 28 36 42;Apotheken;Stadt Graz - Stadtvermessung;47,023201;15,400229
+1719522,08560000;5954234,47850000;6;Glacis-Apotheke;Glacisstraﬂe 31;8010;Graz;(0316) 32 33 92;Apotheken;Stadt Graz - Stadtvermessung;47,074448;15,446730
+1719111,57170000;5953039,44460000;7;Jakomini-Apotheke;Jakominiplatz 15;8010;Graz;(0316) 83 01 61;Apotheken;Stadt Graz - Stadtvermessung;47,067139;15,443042
+1715263,23790000;5956866,23940000;8;Janus-Apotheke;Wiener Straﬂe 215;8051;Graz;(0316) 68 21 43;Apotheken;Stadt Graz - Stadtvermessung;47,090546;15,408472
+1719598,74770000;5953253,97470000;9;Kaiser-Josef-Apotheke;Kaiser-Josef-Platz 5;8010;Graz;(0316) 82 95 71;Apotheken;Stadt Graz - Stadtvermessung;47,068451;15,447418
+1715797,59760000;5957377,59570000;10;Kalvarien-Apotheke;Augasse 77;8051;Graz;(0316) 68 42 66;Apotheken;Stadt Graz - Stadtvermessung;47,093674;15,413272
+1719228,70800000;5952069,82320000;11;Kronen-Apotheke;Conrad-von-Hˆtzendorf-Straﬂe 28;8010;Graz;(0316) 82 62 26;Apotheken;Stadt Graz - Stadtvermessung;47,061203;15,444095
+1718502,65870000;5953803,67200000;12;Landschafts-Apotheke;Sackstraﬂe 4;8010;Graz;(0316) 83 04 20;Apotheken;Stadt Graz - Stadtvermessung;47,071812;15,437572
+1714817,93300000;5955400,74290000;13;Rosen-Apotheke;Alte Poststraﬂe 11;8020;Graz;(0316) 57 00 70;Apotheken;Stadt Graz - Stadtvermessung;47,081585;15,404471
+1716994,80410000;5960681,49170000;14;Antonius-Apotheke;Weinitzenstraﬂe 2;8045;Graz;(0316) 69 13 77;Apotheken;Stadt Graz - Stadtvermessung;47,113876;15,424026
+1715992,80690000;5949772,97740000;15;Apotheke Neuhart;K‰rntner Straﬂe 152;8053;Graz;(0316) 27 21 88;Apotheken;Stadt Graz - Stadtvermessung;47,047146;15,415026
+1717019,07950000;5953696,98940000;16;"Apotheke ""Zum gr¸nen Kreuz""";Annenstraﬂe 45;8020;Graz;(0316) 71 26 80;Apotheken;Stadt Graz - Stadtvermessung;47,071159;15,424245
+1718773,11770000;5953524,62350000;17;B‰ren-Apotheke;Herrengasse 11;8010;Graz;(0316) 83 02 67;Apotheken;Stadt Graz - Stadtvermessung;47,070107;15,440001
+1722528,22000000;5954907,28830000;18;Casa Medica Apotheke;Berthold Linder Weg 3;8047;Graz;(0316) 32 20 50;Apotheken;Stadt Graz - Stadtvermessung;47,078564;15,473734
+1719694,00370000;5953840,03040000;19;"Apotheke ""Zum guten Hirten""";Leonhardstraﬂe 6;8010;Graz;(0316) 32 21 29;Apotheken;Stadt Graz - Stadtvermessung;47,072037;15,448274
+1721420,51440000;5954884,35520000;20;"Apotheke ""Zum heiligen Leonhard""";Leonhardplatz 3;8010;Graz;(0316) 32 21 03;Apotheken;Stadt Graz - Stadtvermessung;47,078426;15,463783
+1719296,81160000;5954858,76690000;21;"Apotheke ""Zur gˆttlichen Vorsehung""";Heinrichstraﬂe 3;8010;Graz;(0316) 32 11 28;Apotheken;Stadt Graz - Stadtvermessung;47,078266;15,444706
+1721125,35410000;5953160,13200000;22;"Apotheke ""Zur heiligen Elisabeth""";Pl¸ddemanngasse 6;8010;Graz;(0316) 82 92 16;Apotheken;Stadt Graz - Stadtvermessung;47,067875;15,461132
+1717600,62860000;5954052,13980000;23;"Apotheke ""Zur Mariahilf""";Volksgartenstraﬂe 20;8020;Graz;(0316) 71 34 31;Apotheken;Stadt Graz - Stadtvermessung;47,073334;15,429469
+1719588,00900000;5952843,57640000;24;"Apotheke ""Zur St. Anna""";M¸nzgrabenstraﬂe 3;8010;Graz;(0316) 83 05 46;Apotheken;Stadt Graz - Stadtvermessung;47,065937;15,447322
+1713747,04620000;5951329,17590000;25;Apotheke 8052;Liss‰ckerstraﬂe 2;8052;Graz;(0316) 22 54 84;Apotheken;Stadt Graz - Stadtvermessung;47,056671;15,394852
+1716203,41010000;5958262,94450000;26;Apotheke Andritz;Weinzˆttlstraﬂe 3;8045;Graz;(0316) 67 28 08;Apotheken;Stadt Graz - Stadtvermessung;47,099091;15,416918
+1714172,66160000;5959172,26690000;27;Apotheke Graz Shopping Nord;Wiener Straﬂe 351;8051;Graz;(0316) 67 07 47;Apotheken;Stadt Graz - Stadtvermessung;47,104649;15,398675
+1717244,16360000;5951917,11410000;28;Apotheke im Citypark;Lazarettg¸rtel 55;8020;Graz;(0316) 76 47 78;Apotheken;Stadt Graz - Stadtvermessung;47,060268;15,426267
+1719058,43370000;5953247,88310000;29;Opernapotheke;Opernring 24;8010;Graz;(0316) 82 96 47;Apotheken;Stadt Graz - Stadtvermessung;47,068413;15,442565
+1717796,66200000;5952749,14010000;30;Panther-Apotheke;Griesplatz 26;8020;Graz;(0316) 71 11 47;Apotheken;Stadt Graz - Stadtvermessung;47,065361;15,431230
+1718708,25870000;5953925,33180000;31;Schloﬂberg-Apotheke;Hofgasse 3;8010;Graz;(0316) 83 05 66;Apotheken;Stadt Graz - Stadtvermessung;47,072556;15,439419
+1720901,77990000;5956689,29560000;32;"Apotheke ""Zu Maria Trost""";Mariatroster Straﬂe 31;8043;Graz;(0316) 32 30 47;Apotheken;Stadt Graz - Stadtvermessung;47,089466;15,459124
+1724146,99770000;5959281,40600000;33;Hubertus-Apotheke;Mariatroster Straﬂe 196;8044;Graz;(0316) 39 89 39;Apotheken;Stadt Graz - Stadtvermessung;47,105316;15,488276
+1717871,49200000;5953712,98830000;34;"Apotheke ""Zum Granatapfel""";Annenstraﬂe 4;8020;Graz;(0316) 71 32 89;Apotheken;Stadt Graz - Stadtvermessung;47,071259;15,431902
+1714513,28700000;5953645,12000000;35;"Apotheke ""Zur Hoffnung""";Eggenberger Allee 44;8020;Graz;(0316) 58 23 51;Apotheken;Stadt Graz - Stadtvermessung;47,070843;15,401735
+1723740,93220000;5953340,16830000;36;Rothlauer-Apotheke;Waltendorfer Hauptstraﬂe 121;8042;Graz;(0316) 42 22 10;Apotheken;Stadt Graz - Stadtvermessung;47,068977;15,484629
+1717792,69520000;5955936,69430000;37;Theodor-Kˆrner-Apotheke;Theodor-Kˆrner-Straﬂe 69;8010;Graz;(0316) 68 34 94;Apotheken;Stadt Graz - Stadtvermessung;47,084862;15,431194
+1725106,66120000;5954632,48980000;38;Apotheke Ragnitz;Ragnitzstraﬂe 177;8047;Graz;(0316) 30 13 05;Apotheken;Stadt Graz - Stadtvermessung;47,076885;15,496897
+1720522,80020000;5953326,76590000;39;Herz-Jesu-Apotheke;Nibelungengasse 26;8010;Graz;(0316) 83 06 29;Apotheken;Stadt Graz - Stadtvermessung;47,068893;15,455719
+1717379,24870000;5954900,78910000;40;Lˆwen-Apotheke;Wiener Straﬂe 19;8020;Graz;(0316) 71 46 91;Apotheken;Stadt Graz - Stadtvermessung;47,078526;15,427481
+1722231,51100000;5951517,88320000;41;"Apotheke ""Zum heiligen Petrus""";St. Peter-Hauptstraﬂe 45;8042;Graz;(0316) 47 14 42;Apotheken;Stadt Graz - Stadtvermessung;47,057827;15,471069
+1718526,42080000;5953640,68130000;42;Adler-Apotheke;Hauptplatz 4;8010;Graz;(0316) 83 03 42;Apotheken;Stadt Graz - Stadtvermessung;47,070816;15,437785
+1717520,57380000;5950432,97100000;43;Paracelsus-Apotheke;Triester Straﬂe 87 a;8020;Graz;(0316) 27 15 96;Apotheken;Stadt Graz - Stadtvermessung;47,051186;15,428750
+1714135,82500000;5950358,95450000;44;Peter-Rosegger-Apotheke;Peter-Rosegger-Straﬂe 101;8052;Graz;(0316) 28 41 56;Apotheken;Stadt Graz - Stadtvermessung;47,050732;15,398344
+1716227,10800000;5947557,27220000;45;Regenbogen Apotheke (SCW);Weblinger G¸rtel 25;8054;Graz;(0316) 29 29 79;Apotheken;Stadt Graz - Stadtvermessung;47,033581;15,417130
+1718041,68470000;5953634,71720000;46;Mohren-Apotheke;S¸dtiroler Platz 7;8020;Graz;(0316) 71 32 80;Apotheken;Stadt Graz - Stadtvermessung;47,070778;15,433431
+1718665,39380000;5954975,10110000;47;Salvator-Apotheke;Wickenburggasse 1;8010;Graz;(0316) 83 01 12;Apotheken;Stadt Graz - Stadtvermessung;47,078979;15,439034
+1718857,47050000;5951290,94450000;48;Schˆnau-Apotheke;Schˆnaugasse 106;8010;Graz;(0316) 82 92 49;Apotheken;Stadt Graz - Stadtvermessung;47,056438;15,440760
+1714824,44570000;5954218,23150000;49;Schutzengel-Apotheke;Lilienthalgasse 24;8020;Graz;(0316) 58 12 65;Apotheken;Stadt Graz - Stadtvermessung;47,074348;15,404531
+1718943,12550000;5953080,76380000;50;Sonnen-Apotheke;Jakominiplatz 24;8010;Graz;(0316) 82 31 59;Apotheken;Stadt Graz - Stadtvermessung;47,067390;15,441529
+1720164,59500000;5951573,05960000;51;St. Franziskus-Apotheke;M¸nzgrabenstraﬂe 110;8010;Graz;(0316) 82 50 62;Apotheken;Stadt Graz - Stadtvermessung;47,058163;15,452501
+1716646,11870000;5959192,26930000;52;St. Josef-Apotheke;Andritzer Reichsstraﬂe 52;8045;Graz;(0316) 69 11 50;Apotheken;Stadt Graz - Stadtvermessung;47,104771;15,420895
+1722286,06510000;5952174,15650000;53;St. Paul-Apotheke;Eisteichgasse 31;8010;Graz;(0316) 47 24 29;Apotheken;Stadt Graz - Stadtvermessung;47,061844;15,471559
+1718094,51460000;5953450,29360000;54;"Apotheke ""Zum goldenen Engel""";Griesgasse 12;8020;Graz;(0316) 71 20 28;Apotheken;Stadt Graz - Stadtvermessung;47,069653;15,433906
+1717697,58310000;5960084,67480000;55;Purpur-Apotheke;Radegunderstraﬂe 47;8045;Graz;-;Apotheken;Stadt Graz - Stadtvermessung;47,110229;15,430340
+1722162,58120000;5950648,30540000;56;Petrifelder Apotheke;Petrifelder Straﬂe 21;8042;Graz;(0316) 47 34 47;Apotheken;Stadt Graz - Stadtvermessung;47,052505;15,470449
+1718594,55850000;5952977,86500000;57;Neutor-Apotheke;Neutorgasse 57;8010;Graz;(0316) 82 65 61;Apotheken;Stadt Graz - Stadtvermessung;47,066761;15,438397
+1718071,08390000;5946604,27790000;58;Apotheke Puntigam;Triester Straﬂe 373;8055;Graz;(0316) 29 10 55;Apotheken;Stadt Graz - Stadtvermessung;47,027748;15,433695
+1713439,66910000;5952215,42210000;59;Aesculap-Apotheke;Burenstraﬂe 72;8052;Graz;(0316) 57 44 77;Apotheken;Stadt Graz - Stadtvermessung;47,062096;15,392091
+1719818,17540000;5949293,90140000;60;"Apotheke ""Am Gr¸nanger""";Ziehrerstraﬂe 2;8041;Graz;(0316) 47 21 18;Apotheken;Stadt Graz - Stadtvermessung;47,044212;15,449389

@@ -1,0 +1,21 @@
+XCoord;YCoord;OBJECTID;NAME;ANSCHRIFT;PLZ;ORT;TELEFON;KAT2;KAT3;HERKUNFT;PHI;LAMBDA
+1719043,05230000;5955745,50590000;1;Sanatorium der Kreuzschwestern;Kreuzgasse 35;8010;Graz;+43(0)316/331-0;Krankenanstalten;Sanatorien/Privatklinik;Stadt Graz - Stadtvermessung;47,083691;15,442427
+1719282,94900000;5955685,45730000;2;Sanatorium Hansa GmbH;Körblergasse 42;8010;Graz;+43(0)316/3600-0;Krankenanstalten;Sanatorien/Privatklinik;Stadt Graz - Stadtvermessung;47,083324;15,444581
+1716200,63220000;5948285,33900000;3;LSF, Landesnervenklinik Sigmund Freud;Wagner-Jauregg-Platz 1;8053;Graz;+43(0)316/2191-0;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,038040;15,416893
+1722636,89200000;5954699,92280000;4;Privatklinik Graz Ragnitz GmbH;Berthold-Linder-Weg 15;8047;Graz;+43(0)316/5960-0;Krankenanstalten;Sanatorien/Privatklinik;Stadt Graz - Stadtvermessung;47,077297;15,474710
+1713860,99440000;5957347,01460000;5;Geburtshaus Felber;Göstinger Straße 157;8051;Graz;+43(0)316/684548;Krankenanstalten;Entbindungsheime;Stadt Graz - Stadtvermessung;47,093487;15,395875
+1719816,95800000;5954434,17770000;6;Privatklinik Leech GmbH;Hugo-Wolf-Gasse 2-4;8010;Graz;+43(0)316/3632-0;Krankenanstalten;Sanatorien/Privatklinik;Stadt Graz - Stadtvermessung;47,075672;15,449379
+1721975,23310000;5955785,68110000;7;LKH, Kinderklinik;Auenbruggerplatz 34;8036;Graz;+43(0)316/385-2605;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,083939;15,468767
+1714267,68010000;5954786,43160000;8;LKH, Graz West;Göstinger Straße 22;8020;Graz;+43(0)316/5466-0;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,077824;15,399529
+1721613,35270000;5955048,70020000;9;LKH, Univ.Klinikum Graz;Auenbruggerplatz 1;8036;Graz;+43(0)316/385-0;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,079430;15,465516
+1717784,84130000;5953854,41650000;10;Krankenhaus der Barmherzigen Brüder (Marschallgasse);Marschallgasse 12;8020;Graz;+43(0)316/7067-0;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,072124;15,431124
+1721177,55810000;5954938,33150000;11;Sanatorium St. Leonhard;Schanzelgasse 42;8010;Graz;+43(0)316/3607;Krankenanstalten;Sanatorien/Privatklinik;Stadt Graz - Stadtvermessung;47,078754;15,461601
+1721436,57970000;5955398,25960000;12;LKH, Psychosomatische Station;Auenbruggerplatz 39;8010;Graz;+43(0)316/385/0;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,081570;15,463928
+1714063,61860000;5954921,79560000;13;UKH, Unfallkrankenhaus;Göstinger Straße 24;8020;Graz;+43(0)316/505-0;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,078655;15,397696
+1716771,49750000;5948036,57670000;14;LSF, Kinder- und Jugendpsychiatrie;Wagner-Jauregg-Platz 18;8053;Graz;+43(0)316/2191-2532;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,036518;15,422021
+1721792,21410000;5955567,27570000;15;LKH, Jugendpsychiatrie;Auenbruggerplatz 22;8010;Graz;+43(0)316/385-3616;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,082603;15,467123
+1713797,58920000;5950781,12710000;16;Militärspital - Belgier Kaserne;Straßganger Straße 171<Null>;8052;Graz;+43(0)316/5993;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,053318;15,395306
+1721794,21170000;5955353,79900000;17;LKH, Zahnklinik;Auenbruggerplatz 12;8036;Graz;+43(0)316/3852-248;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,081295;15,467140
+1712585,65380000;5952505,58080000;18;Privatklinik Kastanienhof;Gritzenweg 16;8052;Graz;+43(0)316/573960;Krankenanstalten;Sanatorien/Privatklinik;Stadt Graz - Stadtvermessung;47,063869;15,384418
+1713455,80720000;5954886,27290000;19;Krankenhaus der Barmherzigen Brüder (Berggasse);Bergstraße 27;8020;Graz;+43(0)316/5989-0;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,078438;15,392236
+1717355,53390000;5953441,37600000;20;Krankenhaus der Elisabethinen Graz;Elisabethinergasse 14;8020;Graz;+43(0)316/7063;Krankenanstalten;Krankenhäuser/Kliniken;Stadt Graz - Stadtvermessung;47,069595;15,427267
