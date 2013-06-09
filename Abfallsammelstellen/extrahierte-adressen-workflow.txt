@@ -1,0 +1,23 @@
+
+
+
+Mergen der Punktdatensätze im Qgis:
+  2 Datensätze, zB hier "feb" und "jan" sollen so gemerged werden, dass alle überlappenden Punkte nur 1x vorhanden sind.
+  Da die Koordinaten bei den Transformationen leider nicht mehr ganz exakt waren, musste über den Umweg von Bufferzonen gemerged werden:
+  Menü Vector -> geoprocessing -> buffer
+  	Input layer "feb"
+	Buffer Zone: zB 0.00005 Grad ( bei WGS polarkoordinaten ) (sollte ca. 2-4m durchmesser sein)
+	als Shape abspeichern "feb-buffer", gleich als neuen Layer hinzufügen
+  Menü Vector -> research -> select by location
+  	select features in "jan" 
+	that intersect features in "feb-buffer"
+
+  jetzt die Tabelle von "jan" aufmachen, 
+  	Invert selection
+	jetzt sind alle Punkte in "jan" selektiert, die in "feb" nicht vorkommen -> als Shape "januar-unique" speichern
+
+Im JOSM "feb" und "januar-unique" öffnen
+	im shape wurden die attributbezeichnungen verschandelt -> händisch wiederherstellen
+	beide Layer mergen
+
+fertig.
