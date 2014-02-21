@@ -73,9 +73,19 @@ do
         url=`cat "$urlfilename"`
         echo "Downloading wfs „$urlfilename“ from „$url“"
         if [ -e "${urlfilename%%.wfsurl}.geojson" ]; then
-          mv ${urlfilename%%.wfsurl}.geojson ${urlfilename%%.wfsurl}.geojson.$(date "+%T")
+          mv ${urlfilename%%.wfsurl}.geojson ${urlfilename%%.wfsurl}.geojson.tmp
         fi
         ogr2ogr -f GeoJSON ${urlfilename%%.wfsurl}.geojson "$url" OGRGeoJSON -gt 1000
+        if [ -e "${urlfilename%%.wfsurl}.geojson.tmp" ]; then
+          if [ "$(diff ${urlfilename%%.wfsurl}.geojson.tmp ${urlfilename%%.wfsurl}.geojson | head)" ]; then
+            datestring="$(date '+%T')-save"
+            mv ${urlfilename%%.wfsurl}.geojson.tmp ${urlfilename%%.wfsurl}.geojson.$datestring
+            echo "change in ${urlfilename%%.wfsurl}.geojson detected, backuped to ${urlfilename%%.wfsurl}.geojson.$datestring"
+          else
+            rm ${urlfilename%%.wfsurl}.geojson.tmp
+            echo "${urlfilename%%.wfsurl}.geojson not changed"
+          fi
+        fi
       done
   fi
 
