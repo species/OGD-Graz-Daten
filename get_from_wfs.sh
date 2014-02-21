@@ -72,6 +72,10 @@ URL="$GRAZURL/$number/$lasturlpart"
 ### working part
 ###
 
+#ogr2ogr -f GeoJSON $filename.geojson "$URL" OGRGeoJSON -gt 1000
 
-ogr2ogr -f GeoJSON $filename.geojson "$URL" OGRGeoJSON -gt 1000
+for i in 1 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21; do
+  URL="$GRAZURL/$i/$lasturlpart"
+  ogr2ogr -f GeoJSON $i.geojson "$URL" OGRGeoJSON -gt 1000
+done
 #ogr2ogr shapefile/ $number.geojson
