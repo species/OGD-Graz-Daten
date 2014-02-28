@@ -1,0 +1,25 @@
+marker-size: small
+marker-color: #hex of green #3BB451
+marker-symbol: "park" for nadel; "park2" for Blatt
+
+field calculator:
+
+use 'string' for all new fields
+
+'small'
+
+'#3BB451' (Nadel), #A3DDAD (Laub), #B3B3B3 (umgeschnitten)
+
+case when "baumtyp" = 'Nadel' then 'park'
+  when "baumtyp" = 'Laub' then 'park2'
+  else ''
+end
+
+speichern als geojson
+  er ersetzt die - durch _
+→ vi
+  :%s/marker_size/marker-size/g
+  :%s/marker_symbol/marker-symbol/g
+  :%s/marker_color/marker-color/g
+
+
