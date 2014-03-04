@@ -1,1 +1,1 @@
-http://geodaten1.graz.at/ArcGIS_Graz/rest/services/Extern/OGD_WFS/MapServer/15/query?where=objectid+%3D+objectid&outfields=*&f=json
+http://geodaten1.graz.at/ArcGIS_Graz/rest/services/Extern/OGD_WFS/MapServer/13/query?where=objectid+%3D+objectid&outfields=*&f=json
