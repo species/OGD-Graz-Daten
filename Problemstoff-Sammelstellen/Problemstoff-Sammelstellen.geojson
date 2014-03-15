@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "SAMMELSTELLENART": "Stationäre Problemstoffsammelstelle", "SAMMELSTELLENNAME": "Verein BAN", "STRASSENNAME": "Ungergasse", "HAUSNUMMER": "31", "BEZIRKS_NR": 5, "BEZIRKSNAME": "Gries", "LAGE": "Verein BAN", "BEMERKUNG": null, "ZEITEN": "Mo - Do, 8.00 - 16.30 Uhr; Fr, 8.00 - 12.00 Uhr;" }, "geometry": { "type": "Point", "coordinates": [ 15.423179012273195, 47.067137758408286 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 2, "SAMMELSTELLENART": "Stationäre Problemstoffsammelstelle", "SAMMELSTELLENNAME": "Zentrale Sammelstelle", "STRASSENNAME": "Neufeldweg", "HAUSNUMMER": "219", "BEZIRKS_NR": 8, "BEZIRKSNAME": "St.Peter", "LAGE": "Zentrale Sammelstelle", "BEMERKUNG": null, "ZEITEN": "Mo - Fr, 07.00 - 15.00 Uhr;" }, "geometry": { "type": "Point", "coordinates": [ 15.472783296753878, 47.038003480540638 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3, "SAMMELSTELLENART": "Stationäre Problemstoffsammelstelle", "SAMMELSTELLENNAME": "Feuerwache Dietrichsteinplatz", "STRASSENNAME": "Dietrichsteinplatz", "HAUSNUMMER": "9a", "BEZIRKS_NR": 6, "BEZIRKSNAME": "Jakomini", "LAGE": "Feuerwache Dietrichsteinplatz", "BEMERKUNG": null, "ZEITEN": "Mo - Fr, 08.00 - 17.30 Uhr; Sa, 08.00 - 14.00 Uhr;" }, "geometry": { "type": "Point", "coordinates": [ 15.448131091196265, 47.066205210696182 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 4, "SAMMELSTELLENART": "Stationäre Problemstoffsammelstelle", "SAMMELSTELLENNAME": "Holding Graz Services", "STRASSENNAME": "Sturzgasse", "HAUSNUMMER": "8", "BEZIRKS_NR": 5, "BEZIRKSNAME": "Gries", "LAGE": "Recyclingcenter 2", "BEMERKUNG": "gebührenfrei", "ZEITEN": "Mo - Fr, 7.00 - 17.00 Uhr; Sa, So, Feiertag, 8.00 - 18.00 Uhr;" }, "geometry": { "type": "Point", "coordinates": [ 15.438842260283037, 47.04599479571727 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 5, "SAMMELSTELLENART": "Stationäre Problemstoffsammelstelle", "SAMMELSTELLENNAME": "Zentralfeuerwache Lendplatz", "STRASSENNAME": "Lendplatz", "HAUSNUMMER": "15", "BEZIRKS_NR": 4, "BEZIRKSNAME": "Lend", "LAGE": "Zentralfeuerwache Lendplatz", "BEMERKUNG": null, "ZEITEN": "Mo - Fr, 08.00 - 17.00 Uhr; Sa, 08.00 - 14.00 Uhr;" }, "geometry": { "type": "Point", "coordinates": [ 15.429809143437506, 47.075308944957882 ] } }
+]
+}
