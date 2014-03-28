@@ -399,7 +399,7 @@ Grazer Straﬂencode;Straﬂenbezeichnung;Bezirk;
 1250;Franz-Schmidt-Weg;12;
 1259;Franz-Steiner-Gasse;14;
 1260;Franz-Werfel-Gasse;12;
-2261;Frauengasse;1;
+1261;Frauengasse;1;
 1262;Fraungruberstraﬂe;11;
 1263;Freiheitsplatz;1;
 1264;Freihofanger;11;
